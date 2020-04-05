@@ -1,0 +1,17 @@
+{
+  "name": "rain-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "parcel": "^1.12.4",
+    "stats.js": "^0.17.0"
+  }
+}
